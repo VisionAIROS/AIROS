@@ -52,7 +52,7 @@ Use Cases
 
 Current Status
 
-- **Draft Version:** 1.0 (Open Standard)  
+- **Draft Version:** 1.1 (Open Standard)  
 - **Maintainer:** VisionZero (South Africa)  
 - **Author:** Frans Werner Labuschagne
 - **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
