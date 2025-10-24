@@ -1,11 +1,11 @@
-# 🧠 AI-Restricted Open Standard (AIROS)
+AI-Restricted Open Standard (AIROS)
 
 **An open framework by [VisionZero](https://www.visionzero.co.za)**  
 Protecting private and confidential data from unauthorized AI ingestion.
 
 ---
 
-## 🌍 Overview
+Overview
 
 The **AI-Restricted Open Standard (AIROS)** defines a universal tagging and verification framework that allows organizations to **mark documents as “AI-Restricted.”**  
 
@@ -15,9 +15,9 @@ AIROS enables interoperability across platforms, allowing AI vendors, enterprise
 
 ---
 
-## 🏗️ Vision & Mission
+Vision & Mission
 
-At **VisionZero**, we believe privacy and innovation can coexist.
+At VisionZero, we believe privacy and innovation can coexist.
 
 AIROS was developed to:
 - Prevent unauthorized AI ingestion of sensitive data.  
@@ -27,7 +27,7 @@ AIROS was developed to:
 
 ---
 
-## ⚙️ Technical Overview
+Technical Overview
 
 AIROS uses:
 - **Metadata Tagging** — embedding verifiable AI-restriction identifiers into document headers (PDF, DOCX, TXT, etc.).  
@@ -41,7 +41,7 @@ Future integrations include:
 
 ---
 
-## 🧩 Use Cases
+Use Cases
 
 - **Enterprises:** Protect trade secrets and client data from being uploaded to public AI tools.  
 - **Governments:** Enforce data residency and privacy controls automatically.  
@@ -50,19 +50,16 @@ Future integrations include:
 
 ---
 
-## 🚀 Current Status
+Current Status
 
 - **Draft Version:** 1.0 (Open Standard)  
 - **Maintainer:** VisionZero (South Africa)  
 - **Author:** Frans Werner Labuschagne
 - **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-You can read the full whitepaper here:  
-👉 [`AI_Restricted_Open_Standard_Draft.docx`](./AI_Restricted_Open_Standard_Draft.docx)
-
 ---
 
-## 💬 Community & Collaboration
+Community & Collaboration
 
 AIROS is open for collaboration with:
 - AI vendors  
@@ -75,7 +72,7 @@ Interested in joining or contributing?
 
 ---
 
-## 🧾 License
+License
 
 This project and its documentation are licensed under the  
 **[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.  
@@ -84,11 +81,11 @@ This project and its documentation are licensed under the
 
 ---
 
-## 🏷️ Repository Tags
+Repository Tags
 `ai-security` • `data-protection` • `privacy` • `open-standard` • `ai-compliance` • `visionzero`
 
 ---
 
-### 🌟
+
 Help shape the future of responsible AI data handling —  
 **Adopt the AI-Restricted Open Standard (AIROS).**
