@@ -1,6 +1,6 @@
 AI-Restricted Open Standard (AIROS)
 
-**An open framework by [VisionZero](https://www.visionzero.co.za)**  
+**An open framework by [VisionZeroAI (Pty) Ltd](https://www.visionzero.co.za)** 
 Protecting private and confidential data from unauthorized AI ingestion.
 
 ---
