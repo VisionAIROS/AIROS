@@ -77,7 +77,7 @@ License
 This project and its documentation are licensed under the  
 **[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.  
 
-© 2025 VisionZero (www.visionzero.co.za) — *All rights reserved.*
+© 2025 VisionZeroAI (Pty) Ltd — All rights reserved.
 
 ---
 
